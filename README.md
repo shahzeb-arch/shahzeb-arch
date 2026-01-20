@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Shahzeb Khan
 
-<!--
-**shahzeb-arch/shahzeb-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Cloud | DevOps | Platform Architect
 
-Here are some ideas to get you started:
+I design and build scalable, secure, production-grade cloud platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Tech Stack
+- ☁️ Cloud: Azure, AWS
+- 🏗 Infrastructure as Code: Terraform
+- 📦 Containers: Docker, Kubernetes (AKS)
+- 🔁 CI/CD: GitHub Actions, Azure Devops
+- 🔐 Security: IAM, RBAC, Secrets Management
+
+---
+
+### 📂 Featured Projects
+- Terraform Azure Landing Zone , ELZ Landing Zone
+- AKS Production Platform
+- GitHub Actions CI/CD Templates
+
+---
+
+### 🎯 Focus Areas
+- Cloud Architecture & Design
+- Platform Engineering
+- Automation & Reliability
+- Security by Design
+
+---
+
+### 📫 Connect with Me
+- GitHub: https://github.com/shahzeb-arch
